@@ -1,0 +1,11 @@
+---
+ID: 1852
+post_title: Water Town
+author: edelleye
+post_excerpt: ""
+layout: post
+permalink: http://stage.mydivein.com/water-town/
+published: true
+post_date: 2008-06-26 01:42:25
+---
+In lobortis vehicula lectus, et venenatis velit euismod sit amet. Morbi egestas malesuada turpis, dictum consequat mauris scelerisque ac. Mauris luctus commodo lorem, pulvinar sollicitudin ante porttitor id.

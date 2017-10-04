@@ -1,0 +1,12 @@
+---
+ID: 6281
+post_title: Evening Rides
+author: edelleye
+post_excerpt: ""
+layout: post
+permalink: >
+  http://stage.mydivein.com/evening-rides-2/
+published: true
+post_date: 2013-06-26 02:47:20
+---
+Duis eget tellus nisl. Donec porta orci vel iaculis porta. Vivamus aliquet, ligula et tempus mattis, tortor ipsum eleifend massa, ac gravida dui est quis dui.
