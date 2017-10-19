@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2017-10-14 18:22:53
 ---
+<h2>Rigged for Natural Disaster</h2>
+By Sara Grimes
 <blockquote>We’re going to die. I don’t want my babies to die like this,” she thought. “This can’t be happening.</blockquote>
 <i><span style="font-weight: 400">Lojowsky roused her youngest — 2-year-old Lourdes — from bed. She piled the girls into her Kia Sedona. They were met with a cloud of white smoke when she opened her garage door. Ash and fire rained down on the vehicle as she drove down the driveway and into the main road. Her husband followed in a truck behind them. About a mile down the road, a wall of flames blocked their path.</span></i>
 
