@@ -9,4 +9,3 @@ permalink: >
 published: true
 post_date: 2017-10-26 09:09:49
 ---
-[wppb-register form_name="partner-lead"]
