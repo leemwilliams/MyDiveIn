@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: page
 permalink: >
-  http://stage.mydivein.com/mobile-sign-up/
+  http://54.210.60.61.xip.io/mobile-sign-up/
 published: true
 post_date: 2017-10-23 11:17:43
 ---
