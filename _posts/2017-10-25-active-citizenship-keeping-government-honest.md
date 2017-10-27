@@ -10,7 +10,7 @@ post_excerpt: >
   stay pure and moral on its own.
 layout: post
 permalink: >
-  http://stage.mydivein.com/active-citizenship-keeping-government-honest/
+  http://54.210.60.61.xip.io/active-citizenship-keeping-government-honest/
 published: true
 post_date: 2017-10-25 11:43:03
 ---
