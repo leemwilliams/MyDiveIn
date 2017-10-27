@@ -1,11 +1,11 @@
 ---
-ID: 89089
+ID: 94213
 post_title: Rigged for Natural Disaster
 author: sara
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/rigged-natural-disaster/
+  http://54.210.60.61.xip.io/rigged-natural-disaster/
 published: true
 post_date: 2017-10-14 18:22:53
 ---
