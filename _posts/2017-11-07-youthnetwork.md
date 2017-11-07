@@ -4,7 +4,7 @@ post_title: 'Let&#8217;s Scale A Youth Network!'
 author: sara
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/103214-2/
+permalink: http://mydivein.com/youthnetwork/
 published: true
 post_date: 2017-11-07 15:03:39
 ---
