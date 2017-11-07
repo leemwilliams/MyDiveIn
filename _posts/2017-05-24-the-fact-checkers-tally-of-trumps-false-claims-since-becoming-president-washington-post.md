@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/the-fact-checkers-tally-of-trumps-false-claims-since-becoming-president-washington-post/
+  http://mydivein.com/the-fact-checkers-tally-of-trumps-false-claims-since-becoming-president-washington-post/
 published: true
 post_date: 2017-05-24 20:34:58
 ---

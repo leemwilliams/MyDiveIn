@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/how-silicon-valley-is-trying-to-topple-trump-beginning-with-a-special-election-in-montana-recode/
+  http://mydivein.com/how-silicon-valley-is-trying-to-topple-trump-beginning-with-a-special-election-in-montana-recode/
 published: true
 post_date: 2017-05-25 23:16:58
 ---

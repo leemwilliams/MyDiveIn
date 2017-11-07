@@ -4,7 +4,7 @@ post_title: Activate
 author: edelleye
 post_excerpt: ""
 layout: page
-permalink: http://stage.mydivein.com/activate/
+permalink: http://mydivein.com/activate/
 published: true
 post_date: 2017-03-17 23:25:17
 ---

@@ -4,8 +4,7 @@ post_title: Dirt Championship
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/dirt-championship-2/
+permalink: http://mydivein.com/dirt-championship-2/
 published: true
 post_date: 2013-06-26 23:38:36
 ---

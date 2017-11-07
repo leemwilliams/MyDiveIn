@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/new-retro-gallery-released/
+  http://mydivein.com/new-retro-gallery-released/
 published: true
 post_date: 2012-07-02 23:25:22
 ---

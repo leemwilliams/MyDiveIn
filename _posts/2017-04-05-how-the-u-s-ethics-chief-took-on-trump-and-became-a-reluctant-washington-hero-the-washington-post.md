@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/how-the-u-s-ethics-chief-took-on-trump-and-became-a-reluctant-washington-hero-the-washington-post/
+  http://mydivein.com/how-the-u-s-ethics-chief-took-on-trump-and-became-a-reluctant-washington-hero-the-washington-post/
 published: true
 post_date: 2017-04-05 19:38:34
 ---

@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/its-time-to-volunteer/
+  http://mydivein.com/its-time-to-volunteer/
 published: true
 post_date: 2017-07-31 22:53:11
 ---

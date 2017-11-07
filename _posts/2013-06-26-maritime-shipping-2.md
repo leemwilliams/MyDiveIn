@@ -4,8 +4,7 @@ post_title: Maritime Shipping
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/maritime-shipping-2/
+permalink: http://mydivein.com/maritime-shipping-2/
 published: true
 post_date: 2013-06-26 01:38:43
 ---

@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/thank-you-scott-snl-youtube/
+  http://mydivein.com/thank-you-scott-snl-youtube/
 published: true
 post_date: 2017-05-22 23:16:18
 ---

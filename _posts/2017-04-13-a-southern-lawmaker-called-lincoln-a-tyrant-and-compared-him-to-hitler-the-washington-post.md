@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/a-southern-lawmaker-called-lincoln-a-tyrant-and-compared-him-to-hitler-the-washington-post/
+  http://mydivein.com/a-southern-lawmaker-called-lincoln-a-tyrant-and-compared-him-to-hitler-the-washington-post/
 published: true
 post_date: 2017-04-13 00:21:56
 ---

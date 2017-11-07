@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/trump-raises-prospect-of-government-shutdown-to-leverage-better-budget-for-gop-in-fall-the-washington-post/
+  http://mydivein.com/trump-raises-prospect-of-government-shutdown-to-leverage-better-budget-for-gop-in-fall-the-washington-post/
 published: true
 post_date: 2017-05-02 20:54:52
 ---

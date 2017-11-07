@@ -4,7 +4,7 @@ post_title: In contrast
 author: user
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/in-contrast/
+permalink: http://mydivein.com/in-contrast/
 published: true
 post_date: 2013-05-21 01:42:43
 ---

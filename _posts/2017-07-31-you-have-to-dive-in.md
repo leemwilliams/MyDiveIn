@@ -4,8 +4,7 @@ post_title: You Have To Dive In
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/you-have-to-dive-in/
+permalink: http://mydivein.com/you-have-to-dive-in/
 published: true
 post_date: 2017-07-31 22:44:42
 ---

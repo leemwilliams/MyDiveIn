@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/sessions-orders-justice-dept-to-end-forensic-science-commission-suspend-review-policy-the-washington-post/
+  http://mydivein.com/sessions-orders-justice-dept-to-end-forensic-science-commission-suspend-review-policy-the-washington-post/
 published: true
 post_date: 2017-04-10 20:41:31
 ---

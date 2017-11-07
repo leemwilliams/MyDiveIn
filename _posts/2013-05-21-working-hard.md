@@ -4,7 +4,7 @@ post_title: Working hard
 author: user
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/working-hard/
+permalink: http://mydivein.com/working-hard/
 published: true
 post_date: 2013-05-21 01:28:22
 ---

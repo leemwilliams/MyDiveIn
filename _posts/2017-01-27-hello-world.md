@@ -4,7 +4,7 @@ post_title: Hello world!
 author: user
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/hello-world/
+permalink: http://mydivein.com/hello-world/
 published: true
 post_date: 2017-01-27 09:22:23
 ---

@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/president-trump-fires-fbi-director-james-comey-vox/
+  http://mydivein.com/president-trump-fires-fbi-director-james-comey-vox/
 published: true
 post_date: 2017-05-09 23:01:48
 ---

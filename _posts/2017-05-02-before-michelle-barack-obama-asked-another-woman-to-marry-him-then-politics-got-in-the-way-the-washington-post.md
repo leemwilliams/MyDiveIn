@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/before-michelle-barack-obama-asked-another-woman-to-marry-him-then-politics-got-in-the-way-the-washington-post/
+  http://mydivein.com/before-michelle-barack-obama-asked-another-woman-to-marry-him-then-politics-got-in-the-way-the-washington-post/
 published: true
 post_date: 2017-05-02 20:22:35
 ---

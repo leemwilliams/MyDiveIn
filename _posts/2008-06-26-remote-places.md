@@ -4,7 +4,7 @@ post_title: Remote Places
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/remote-places/
+permalink: http://mydivein.com/remote-places/
 published: true
 post_date: 2008-06-26 02:46:21
 ---

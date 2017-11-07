@@ -4,7 +4,7 @@ post_title: Shortcodes
 author: edelleye
 post_excerpt: ""
 layout: page
-permalink: http://stage.mydivein.com/shortcodes-2/
+permalink: http://mydivein.com/shortcodes-2/
 published: true
 post_date: 2012-07-23 23:55:33
 ---

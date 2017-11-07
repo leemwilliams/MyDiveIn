@@ -4,8 +4,7 @@ post_title: From the Marathon
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/from-the-marathon/
+permalink: http://mydivein.com/from-the-marathon/
 published: true
 post_date: 2013-06-26 01:21:13
 ---

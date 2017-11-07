@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/new-tilt-shift-technique/
+  http://mydivein.com/new-tilt-shift-technique/
 published: true
 post_date: 2012-04-30 23:46:13
 ---

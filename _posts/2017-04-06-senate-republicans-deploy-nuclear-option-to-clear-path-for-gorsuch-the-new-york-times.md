@@ -1,11 +1,11 @@
 ---
 ID: 6987
 post_title: 'Senate Republicans Deploy ‘Nuclear Option’ to Clear Path for Gorsuch &#8211; The New York Times'
-author: eric
+author: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/senate-republicans-deploy-nuclear-option-to-clear-path-for-gorsuch-the-new-york-times/
+  http://mydivein.com/senate-republicans-deploy-nuclear-option-to-clear-path-for-gorsuch-the-new-york-times/
 published: true
 post_date: 2017-04-06 18:41:38
 ---

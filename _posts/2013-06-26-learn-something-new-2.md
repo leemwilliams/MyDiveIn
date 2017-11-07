@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/learn-something-new-2/
+  http://mydivein.com/learn-something-new-2/
 published: true
 post_date: 2013-06-26 02:48:34
 ---

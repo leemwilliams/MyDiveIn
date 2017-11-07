@@ -4,7 +4,7 @@ post_title: Views of the Burj Khalifa
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/burj-khalifa/
+permalink: http://mydivein.com/burj-khalifa/
 published: true
 post_date: 2008-06-26 21:19:12
 ---

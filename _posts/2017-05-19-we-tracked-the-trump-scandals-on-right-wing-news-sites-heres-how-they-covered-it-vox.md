@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/we-tracked-the-trump-scandals-on-right-wing-news-sites-heres-how-they-covered-it-vox/
+  http://mydivein.com/we-tracked-the-trump-scandals-on-right-wing-news-sites-heres-how-they-covered-it-vox/
 published: true
 post_date: 2017-05-19 19:34:49
 ---

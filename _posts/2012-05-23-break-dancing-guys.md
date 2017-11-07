@@ -4,8 +4,7 @@ post_title: Break Dancing Guys
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/break-dancing-guys/
+permalink: http://mydivein.com/break-dancing-guys/
 published: true
 post_date: 2012-05-23 23:45:02
 ---

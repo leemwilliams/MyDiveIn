@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/what-roger-ailes-did-to-america-vox/
+  http://mydivein.com/what-roger-ailes-did-to-america-vox/
 published: true
 post_date: 2017-05-19 19:45:07
 ---

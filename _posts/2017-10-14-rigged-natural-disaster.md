@@ -5,7 +5,7 @@ author: sara
 post_excerpt: ""
 layout: post
 permalink: >
-  http://54.210.60.61.xip.io/rigged-natural-disaster/
+  http://mydivein.com/rigged-natural-disaster/
 published: true
 post_date: 2017-10-14 18:22:53
 ---

@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/special-landscape-effect/
+  http://mydivein.com/special-landscape-effect/
 published: true
 post_date: 2012-07-10 23:47:36
 ---

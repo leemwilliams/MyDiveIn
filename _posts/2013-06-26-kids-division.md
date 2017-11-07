@@ -4,7 +4,7 @@ post_title: Kids Division
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/kids-division/
+permalink: http://mydivein.com/kids-division/
 published: true
 post_date: 2013-06-26 01:20:01
 ---

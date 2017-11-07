@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/spicer-hitler-didnt-even-sink-to-using-chemical-weapons-although-he-sent-jews-to-the-holocaust-center-the-washington-post/
+  http://mydivein.com/spicer-hitler-didnt-even-sink-to-using-chemical-weapons-although-he-sent-jews-to-the-holocaust-center-the-washington-post/
 published: true
 post_date: 2017-04-11 22:33:49
 ---

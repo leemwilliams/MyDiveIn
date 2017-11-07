@@ -4,7 +4,7 @@ post_title: Living Art
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://stage.mydivein.com/living-art/
+permalink: http://mydivein.com/living-art/
 published: true
 post_date: 2013-06-26 01:31:26
 ---

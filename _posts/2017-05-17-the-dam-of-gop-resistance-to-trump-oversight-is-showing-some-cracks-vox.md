@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/the-dam-of-gop-resistance-to-trump-oversight-is-showing-some-cracks-vox/
+  http://mydivein.com/the-dam-of-gop-resistance-to-trump-oversight-is-showing-some-cracks-vox/
 published: true
 post_date: 2017-05-17 17:00:23
 ---

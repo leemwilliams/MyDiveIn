@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/a-black-congressman-called-for-trumps-impeachment-lynching-threats-followed-he-said-the-washington-post/
+  http://mydivein.com/a-black-congressman-called-for-trumps-impeachment-lynching-threats-followed-he-said-the-washington-post/
 published: true
 post_date: 2017-05-22 00:40:26
 ---

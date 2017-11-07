@@ -4,8 +4,7 @@ post_title: Football League
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/football-league/
+permalink: http://mydivein.com/football-league/
 published: true
 post_date: 2013-06-26 00:58:12
 ---

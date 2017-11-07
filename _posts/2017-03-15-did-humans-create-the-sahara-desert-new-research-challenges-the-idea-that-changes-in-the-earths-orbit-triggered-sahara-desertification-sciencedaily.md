@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://stage.mydivein.com/did-humans-create-the-sahara-desert-new-research-challenges-the-idea-that-changes-in-the-earths-orbit-triggered-sahara-desertification-sciencedaily/
+  http://mydivein.com/did-humans-create-the-sahara-desert-new-research-challenges-the-idea-that-changes-in-the-earths-orbit-triggered-sahara-desertification-sciencedaily/
 published: true
 post_date: 2017-03-15 22:57:29
 ---

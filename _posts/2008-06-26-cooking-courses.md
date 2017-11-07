@@ -4,8 +4,7 @@ post_title: Cooking Courses
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: >
-  http://stage.mydivein.com/cooking-courses/
+permalink: http://mydivein.com/cooking-courses/
 published: true
 post_date: 2008-06-26 01:36:35
 ---
