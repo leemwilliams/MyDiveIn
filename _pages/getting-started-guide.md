@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: page
 permalink: >
-  http://mydivein.com/getting-started-guide/
+  https://mydivein.com/getting-started-guide/
 published: true
 post_date: 2017-10-31 08:01:03
 ---
