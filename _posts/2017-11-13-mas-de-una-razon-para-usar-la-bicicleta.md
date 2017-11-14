@@ -26,7 +26,7 @@ post_date: 2017-11-13 18:42:09
 <ol start="3">
  	<li><b>  Reduce la contaminación acústica</b></li>
 </ol>
-<span style="font-weight: 400">Sabías que contaminar es mucho más que emitir emisiones de carbono?. Los niveles de ruido en las ciudades también se pueden considerar un contaminante, con riesgos asociados a la salud a largo plazo. De hecho, el ruido puede aumentar los niveles de hormonas del estrés como el cortisol, la adrenalina y la noradrenalina en el cuerpo, incluso durante el sueño.</span>
+<span style="font-weight: 400">Sabías que contaminar es mucho más que emitir emisiones de <a href="http://www.ecologiahoy.com/emisiones-de-co2">carbono</a>?. Los niveles de ruido en las ciudades también se pueden considerar un contaminante, con riesgos asociados a la salud a largo plazo. De hecho, el ruido puede aumentar los niveles de hormonas del estrés como el cortisol, la adrenalina y la noradrenalina en el cuerpo, incluso durante el sueño.</span>
 
 <span style="font-weight: 400">Por ende algunas ciudades destacan  la contaminación acústica en sus agendas de sostenibilidad.  Un gran ejemplo es <a href="http://vancouver.ca/streets-transportation/biking.aspx">Vancouver</a>, con su “Plan de acción para llegar a ser la ciudad más verde del mundo en 2020″ imagina un futuro muy sostenible previendo ‘menos contaminación y un aire más limpio, menos ruido proveniente de las máquinas  y más proveniente del canto de los pájaros “. Para esto, se sugiere el uso de la bicicleta como una forma clave de reducción de la contaminación acústica.</span>
 
