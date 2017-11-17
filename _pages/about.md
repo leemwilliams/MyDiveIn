@@ -4,7 +4,7 @@ post_title: About
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://mydivein.com/about/
+permalink: http://dev.mydivein.com/about/
 published: true
 post_date: 2017-03-04 02:10:47
 ---
