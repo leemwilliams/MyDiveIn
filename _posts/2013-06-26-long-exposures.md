@@ -4,7 +4,7 @@ post_title: Long Exposures
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/long-exposures/
+permalink: http://dev.mydivein.com/long-exposures/
 published: true
 post_date: 2013-06-26 01:33:00
 ---
