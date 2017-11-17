@@ -32,4 +32,5 @@ post_date: 2017-11-13 18:42:09
 
 <span style="font-weight: 400">Para concluir, una ciudad que dependa de las bicicletas más que de otras formas de transporte automatizado requerirá de menos energía, emitirá menos carbono, y producirá menos ruido. </span>
 
-&nbsp;
+&nbsp;<!--themify_builder_static--><img src="https://dev.mydivein.com/wp-content/uploads/2017/10/received_10154992321913668.jpeg" alt="received_10154992321913668" /> 
+ <p>Lilibeth is a journalist and digital media manager from Bogota, Col. She has been working in marketing for about four years. She was inspired by DiveIn’s mission to connect people and help them to create a positive impact in their communities through volunteer opportunities and events.  She loves doing work that allows her to create, connect, innovate, and develop the potential for a better world.</p><!--/themify_builder_static-->
