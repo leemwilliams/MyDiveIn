@@ -7,7 +7,7 @@ author: Lilibeth
 post_excerpt: ""
 layout: post
 permalink: >
-  https://mydivein.com/mas-de-una-razon-para-usar-la-bicicleta/
+  http://dev.mydivein.com/mas-de-una-razon-para-usar-la-bicicleta/
 published: true
 post_date: 2017-11-13 18:42:09
 ---
