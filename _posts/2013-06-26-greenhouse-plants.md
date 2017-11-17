@@ -4,7 +4,8 @@ post_title: Greenhouse Plants
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/greenhouse-plants/
+permalink: >
+  http://dev.mydivein.com/greenhouse-plants/
 published: true
 post_date: 2013-06-26 00:45:33
 ---
