@@ -4,7 +4,7 @@ post_title: Contact
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://mydivein.com/contact-2/
+permalink: http://dev.mydivein.com/contact-2/
 published: true
 post_date: 2013-05-16 22:33:07
 ---
