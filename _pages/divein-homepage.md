@@ -4,7 +4,7 @@ post_title: DiveIn Homepage
 author: edelleye
 post_excerpt: ""
 layout: page
-permalink: https://mydivein.com/
+permalink: http://dev.mydivein.com/
 published: true
 post_date: 2017-03-16 03:35:34
 ---
