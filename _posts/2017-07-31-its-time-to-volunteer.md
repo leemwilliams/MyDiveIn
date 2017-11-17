@@ -26,4 +26,5 @@ With DiveIn, you’re able to connect with other people, organizations, and nonp
 
 We are together in the fight for change. We are defined by our response to adversity. Are you going to want to remember these four years as a time when you did nothing? Or will you fight for our American values? OR… will you go even a step further and drop a ton of evidence that will save our country immediately? If that last one is even an option for you, please do it. The volunteer work will be here when you get back.
 
-&nbsp;
+&nbsp;<!--themify_builder_static--><img src="http://54.210.60.61.xip.io/wp-content/uploads/2017/06/Screen-Shot-2017-06-01-at-1.44.36-PM.png" width="150" height="150" alt="" /> 
+ <p>Brandt Hamilton is a comedy writer living in Brooklyn, New York. His writing has been used by Hillary Clinton, Michelle Obama, Above Average, and the Huffington Post. He also really likes dinosaurs. You can follow him on Twitter @BrandtHamilton.</p><!--/themify_builder_static-->
