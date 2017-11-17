@@ -4,7 +4,7 @@ post_title: Morning News
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/morning-news/
+permalink: http://dev.mydivein.com/morning-news/
 published: true
 post_date: 2013-06-26 00:44:06
 ---
