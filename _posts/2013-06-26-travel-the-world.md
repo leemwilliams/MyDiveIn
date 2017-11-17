@@ -4,7 +4,8 @@ post_title: Travel the world
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/travel-the-world/
+permalink: >
+  http://dev.mydivein.com/travel-the-world/
 published: true
 post_date: 2013-06-26 00:43:06
 ---
