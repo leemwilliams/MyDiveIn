@@ -7,7 +7,7 @@ author: sara
 post_excerpt: ' En la semana del @WorldSolarChallenge, un equipo holandés de la Universidad Tecnológica de @Eindhoven consiguió la victoria general por su concepto único: un coche solar que genera electricidad y va en marcha.'
 layout: post
 permalink: >
-  http://mydivein.com/automovil-con-energia-solar-podria-ser-el-futuro-para-los-viajes/
+  http://dev.mydivein.com/automovil-con-energia-solar-podria-ser-el-futuro-para-los-viajes/
 published: true
 post_date: 2017-11-02 14:55:51
 ---
