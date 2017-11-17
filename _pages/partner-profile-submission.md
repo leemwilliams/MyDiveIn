@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: page
 permalink: >
-  http://mydivein.com/partner-profile-submission/
+  http://dev.mydivein.com/partner-profile-submission/
 published: true
 post_date: 2017-04-28 21:28:20
 ---
