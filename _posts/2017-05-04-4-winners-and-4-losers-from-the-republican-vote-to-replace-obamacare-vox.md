@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/4-winners-and-4-losers-from-the-republican-vote-to-replace-obamacare-vox/
+  http://dev.mydivein.com/4-winners-and-4-losers-from-the-republican-vote-to-replace-obamacare-vox/
 published: true
 post_date: 2017-05-04 21:14:44
 ---
