@@ -4,7 +4,7 @@ post_title: The Desert Run
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/the-desert-run/
+permalink: http://dev.mydivein.com/the-desert-run/
 published: true
 post_date: 2013-06-26 00:51:24
 ---
