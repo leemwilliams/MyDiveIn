@@ -7,7 +7,7 @@ author: sara
 post_excerpt: ""
 layout: post
 permalink: >
-  https://mydivein.com/que-se-conmemora-en-el-dia-de-los-veteranos-2/
+  http://dev.mydivein.com/que-se-conmemora-en-el-dia-de-los-veteranos-2/
 published: true
 post_date: 2017-11-10 15:33:23
 ---
