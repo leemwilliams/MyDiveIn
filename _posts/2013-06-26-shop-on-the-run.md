@@ -4,7 +4,7 @@ post_title: Shop on the Run
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/shop-on-the-run/
+permalink: http://dev.mydivein.com/shop-on-the-run/
 published: true
 post_date: 2013-06-26 00:46:53
 ---
