@@ -33,4 +33,5 @@ By Sara Grimes
 
 <span style="font-weight: 400">  </span>
 
-&nbsp;
+&nbsp;<!--themify_builder_static--><img src="http://dev.mydivein.com/wp-content/uploads/2017/10/saraimgcrped-150x150.jpg" width="150" height="150" alt="saraimgcrped" /> 
+ <p>Sara recently received her Master&#8217;s degree in Public Affairs at University of San Francisco.  She completed this while working full time as social media associate and program manager for  environmental education non-profits NatureBridge and Action for Nature. Sara has been a committed social justice advocate since her days writing cultural content pieces for the University of Washington&#8217;s student newspaper through her days serving in Americorps. She enjoys working in social entrepreneurship, since it allows her to invest in the cross section of innovation and active citizenship.   </p><!--/themify_builder_static-->
