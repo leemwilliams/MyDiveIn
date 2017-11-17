@@ -32,4 +32,5 @@ by Priya Kothari
 
 <span style="font-weight: 400">In 2016, 63 million Americans gave 8 billion hours of volunteering service valued at </span><a href="https://www.independentsector.org/resource/the-value-of-volunteer-time/"><span style="font-weight: 400">$193 billion</span></a><span style="font-weight: 400">. This year, you can be part of that phenomenal contribution. We invite you to be active and to engage. To take a risk and dive in. You have the skills and the energy, and you </span><b>can</b><span style="font-weight: 400"> make a difference. </span>
 
-&nbsp;
+&nbsp;<!--themify_builder_static--><img src="http://54.210.60.61.xip.io/wp-content/uploads/2017/06/Priya4.jpg" width="150" height="150" alt="" /> 
+ <p>Priya Kothari is a consultant economist, working with Bay Area organizations with a social mission, to evaluate their impact. She writes extensively about social justice issues and is an Airbnb social impact host. She was previously Head of Economics at Save the Children UK and Chief of Staff to the Executive Director for Financial Stability at the Bank of England. You can follow her on Twitter @piryajkothari.</p><!--/themify_builder_static-->
