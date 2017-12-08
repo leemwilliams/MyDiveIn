@@ -5,9 +5,9 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  https://mydivein.com/we-had-formed-a-community/
+  https://mydivein.com/the-new-age-of-community/
 published: true
-post_date: 2017-07-31 18:13:47
+post_date: 2017-12-08 13:30:47
 ---
 <h3>The New Age of Community and Giving</h3>
 by Priya Kothari
