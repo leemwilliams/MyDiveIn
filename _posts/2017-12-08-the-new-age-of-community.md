@@ -10,7 +10,7 @@ published: true
 post_date: 2017-12-08 13:30:47
 ---
 <h3>The New Age of Community and Giving</h3>
-by Priya Kothari
+<strong>By Priya Kothari</strong>
 
 Recently, I hosted a party at home for a few friends. Some knew each other, others didn’t. But that evening, they came together to form to form a community with a shared cause.
 
