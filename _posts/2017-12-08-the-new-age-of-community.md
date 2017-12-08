@@ -12,7 +12,7 @@ post_date: 2017-12-08 13:30:47
 <h3>The New Age of Community and Giving</h3>
 <strong>By Priya Kothari</strong>
 
-Recently, I hosted a party at home for a few friends. Some knew each other, others didn’t. But that evening, they came together to form to form a community with a shared cause.
+A little while back, I hosted a party at home for a few friends. Some knew each other, others didn’t. But that evening, they came together to form a community with a shared cause.
 
 In that intimate setting of my front room, I had invited one of those friends, Meghan Freebeck, to say a few words. She’s the founder of <a href="http://www.simplythebasics.org/">Simply the Basics</a>, the country’s first large-scale hygiene bank. When she spoke, she took us on the very personal journey of how she came to create this organization.
 
