@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-22 11:04:43
 ---
-<h2>Her STEM Story: The SHARK Scientist</h2>
+<h2>Her STEM Story: The SHARK Scientist.</h2>
 <a href="https://soundcloud.com/prasha-sarwate-257380100/episode-07-the-shark-scientist"><img class="alignleft wp-image-41075232199 size-full" src="https://mydivein.com/wp-content/uploads/2018/01/Screen-Shot-2018-01-20-at-10.43.22-AM-e1516642936654.png" alt="" width="724" height="189" /></a>
 
 &nbsp;
