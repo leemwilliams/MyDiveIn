@@ -1,6 +1,6 @@
 ---
 ID: 41075232256
-post_title: 'Her STEM Story: Girl STEM Stars'
+post_title: 'Her STEM Story: GIRL STEM STARS'
 author: Shannon
 post_excerpt: ""
 layout: post
@@ -9,10 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-05 19:14:57
 ---
-<h2>Her STEM Story: Girl STEM Stars.</h2>
+<h2>Her STEM Story: GIRL STEM STARS</h2>
 <a href="https://soundcloud.com/prasha-sarwate-257380100/episode-09-girl-stem-stars"><img class="alignleft wp-image-41075232260 size-full" src="https://mydivein.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-05-at-5.51.06-PM.png" alt="" width="761" height="195" /></a>
-
-&nbsp;
 
 In this week’s DiveIn presents “Black History Month” special, <a href="https://www.linkedin.com/in/prashasarwate/">Prasha Sarwate</a> speaks to “<a href="http://www.girlstemstars.org/">GIRL STEM STARS</a>” CEO &amp; Founder <a href="https://www.linkedin.com/in/kiwoba/">Kiwoba Allaire</a>, and <a href="https://www.linkedin.com/in/camilleeddy/">Camille Eddie</a> an engineering student &amp; board member. A non-profit that’s providing powerful trips, community support &amp; experiences in the field of the STEM to girls of color from underserved communities in Silicon Valley. Listen to learn why we need more GIRL STEM STARS.
 
