@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/learning-a-new-lense-effect/
+  https://mydivein.com/learning-a-new-lense-effect/
 published: true
 post_date: 2012-07-14 23:12:55
 ---

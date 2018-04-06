@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/the-death-knell-for-americas-global-leadership-the-atlantic/
+  https://mydivein.com/the-death-knell-for-americas-global-leadership-the-atlantic/
 published: true
 post_date: 2017-05-31 15:34:16
 ---

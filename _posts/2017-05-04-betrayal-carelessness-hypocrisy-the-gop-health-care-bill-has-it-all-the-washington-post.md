@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/betrayal-carelessness-hypocrisy-the-gop-health-care-bill-has-it-all-the-washington-post/
+  https://mydivein.com/betrayal-carelessness-hypocrisy-the-gop-health-care-bill-has-it-all-the-washington-post/
 published: true
 post_date: 2017-05-04 20:00:06
 ---

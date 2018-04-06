@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/as-nonprofits-brace-for-cuts-under-trump-they-make-a-political-pitch-to-donors-the-washington-post/
+  https://mydivein.com/as-nonprofits-brace-for-cuts-under-trump-they-make-a-political-pitch-to-donors-the-washington-post/
 published: true
 post_date: 2017-06-05 17:13:00
 ---

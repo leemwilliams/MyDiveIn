@@ -4,7 +4,7 @@ post_title: 'Protected: Participate'
 author: ""
 post_excerpt: ""
 layout: page
-permalink: http://mydivein.com/participate/
+permalink: https://mydivein.com/participate/
 published: true
 post_date: 2017-08-09 11:47:43
 ---

@@ -4,7 +4,7 @@ post_title: Map
 author: edelleye
 post_excerpt: ""
 layout: page
-permalink: http://mydivein.com/map/
+permalink: https://mydivein.com/map/
 published: true
 post_date: 2012-07-23 23:55:58
 ---

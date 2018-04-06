@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/2-a-special-prosecutor-steps-in-fox-news-doesnt-get-the-comey-memo-the-daily-show-youtube/
+  https://mydivein.com/2-a-special-prosecutor-steps-in-fox-news-doesnt-get-the-comey-memo-the-daily-show-youtube/
 published: true
 post_date: 2017-05-18 22:26:47
 ---

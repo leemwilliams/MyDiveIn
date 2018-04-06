@@ -3,11 +3,11 @@ ID: 105294
 post_title: >
   Respeto y conmemoración para todos los
   Veteranos
-author: sara
+author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/que-se-conmemora-en-el-dia-de-los-veteranos-2/
+  https://mydivein.com/que-se-conmemora-en-el-dia-de-los-veteranos-2/
 published: true
 post_date: 2017-11-10 15:33:23
 ---
@@ -23,6 +23,3 @@ Antiguamente, se celebraba el Día de la Armística, para recordar el fin del co
 Debido a esta eventualidad, el Congreso reemplazó esta fecha como el día de los veteranos, buscando honrar a todos los soldados que perdieron la vida en la guerra. Como dato curiososo, no solo en los Estados Unidos es importante esta fecha, países como el Reino Unido, Francia, Australia y Canadá también lo hacen.
 
 Hoy, al igual que todos los años, en el Día de los Veteranos se lleva acabo una ceremonia oficial de ofrenda floral en la Tumba del Soldado Desconocido, ubicado en el Cementerio Nacional de Arlintong, en el estado de Virginia, y desfiles y otras conmemoraciones se desarrollan simultáneamente en todo el país.
-<!--themify_builder_static--><img src="https://dev.mydivein.com/wp-content/uploads/2017/10/received_10154992321913668.jpeg" alt="received_10154992321913668" /> 
- <p>Lilibeth is a journalist and digital media manager from Bogota, Col. She has been working in marketing for about four years. She was inspired by DiveIn’s mission to connect people and help them to create a positive impact in their communities through volunteer opportunities and events.  She loves doing work that allows her to create, connect, innovate, and develop the potential for a better world</p> 
- <a href="https://twitter.com/i/moments/929132695896014848?ref_src=twsrc%5Etfw">Respeto y conmemoración para todos los Veteranos</a><!--/themify_builder_static-->

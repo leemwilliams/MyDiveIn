@@ -4,7 +4,7 @@ post_title: The Collection
 author: user
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/the-collection/
+permalink: https://mydivein.com/the-collection/
 published: true
 post_date: 2013-05-21 01:30:39
 ---

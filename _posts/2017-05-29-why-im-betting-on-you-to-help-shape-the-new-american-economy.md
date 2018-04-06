@@ -7,7 +7,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/why-im-betting-on-you-to-help-shape-the-new-american-economy/
+  https://mydivein.com/why-im-betting-on-you-to-help-shape-the-new-american-economy/
 published: true
 post_date: 2017-05-29 19:48:46
 ---

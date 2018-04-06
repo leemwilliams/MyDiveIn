@@ -3,7 +3,7 @@ ID: 120095
 post_title: >
   10 Reasons We’re Excited for the
   PyeongChang Winter Olympics
-author: sara
+author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >

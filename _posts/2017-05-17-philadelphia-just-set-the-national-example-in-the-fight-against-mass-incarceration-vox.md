@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/philadelphia-just-set-the-national-example-in-the-fight-against-mass-incarceration-vox/
+  https://mydivein.com/philadelphia-just-set-the-national-example-in-the-fight-against-mass-incarceration-vox/
 published: true
 post_date: 2017-05-17 20:04:20
 ---

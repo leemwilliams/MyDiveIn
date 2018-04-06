@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/trump-to-discontinue-obama-policy-of-voluntarily-releasing-white-house-visitor-logs-the-washington-post/
+  https://mydivein.com/trump-to-discontinue-obama-policy-of-voluntarily-releasing-white-house-visitor-logs-the-washington-post/
 published: true
 post_date: 2017-04-14 17:43:24
 ---

@@ -5,7 +5,7 @@ author: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/senate-republicans-deploy-nuclear-option-to-clear-path-for-gorsuch-the-new-york-times/
+  https://mydivein.com/senate-republicans-deploy-nuclear-option-to-clear-path-for-gorsuch-the-new-york-times/
 published: true
 post_date: 2017-04-06 18:41:38
 ---

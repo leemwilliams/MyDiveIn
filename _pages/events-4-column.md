@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.mydivein.com/events/events-4-column/
+  https://mydivein.com/events/events-4-column/
 published: true
 post_date: 2014-03-24 23:16:35
 ---

@@ -1,7 +1,7 @@
 ---
 ID: 119810
 post_title: 'Reflections from FracTracker&#8217;s 2017 Community Sentinel Award Program'
-author: sara
+author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >

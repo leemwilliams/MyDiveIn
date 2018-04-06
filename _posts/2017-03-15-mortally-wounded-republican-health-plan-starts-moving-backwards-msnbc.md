@@ -5,9 +5,9 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/mortally-wounded-republican-health-plan-starts-moving-backwards-msnbc/
+  https://mydivein.com/mortally-wounded-republican-health-plan-starts-moving-backwards-msnbc/
 published: true
 post_date: 2017-03-15 20:22:17
 ---
-<blockquote><a href="http://www.msnbc.com/rachel-maddow-show/mortally-wounded-republican-health-plan-starts-moving-backwards"><img class="alignnone size-full" src="https://dev.mydivein.com/wp-content/uploads/2017/03/rtsozn8.jpg" alt="" /></a>Paul Ryan, Donald Trump, and their allies aren't just struggling at this point to move their bill forward; they're actually moving backwards.</blockquote>
+<blockquote><a href="http://www.msnbc.com/rachel-maddow-show/mortally-wounded-republican-health-plan-starts-moving-backwards"><img class="alignnone size-full" src="https://mydivein.com/wp-content/uploads/2017/03/rtsozn8.jpg" alt="" /></a>Paul Ryan, Donald Trump, and their allies aren't just struggling at this point to move their bill forward; they're actually moving backwards.</blockquote>
 Source: <em><a href="http://www.msnbc.com/rachel-maddow-show/mortally-wounded-republican-health-plan-starts-moving-backwards">'Mortally wounded' Republican health plan starts moving backwards | MSNBC</a></em>

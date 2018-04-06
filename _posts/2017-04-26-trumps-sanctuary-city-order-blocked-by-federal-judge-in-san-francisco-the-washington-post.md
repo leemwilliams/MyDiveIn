@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/trumps-sanctuary-city-order-blocked-by-federal-judge-in-san-francisco-the-washington-post/
+  https://mydivein.com/trumps-sanctuary-city-order-blocked-by-federal-judge-in-san-francisco-the-washington-post/
 published: true
 post_date: 2017-04-26 00:30:33
 ---

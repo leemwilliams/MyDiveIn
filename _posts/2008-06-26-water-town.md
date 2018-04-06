@@ -4,7 +4,7 @@ post_title: Water Town
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/water-town/
+permalink: https://mydivein.com/water-town/
 published: true
 post_date: 2008-06-26 01:42:25
 ---

@@ -4,7 +4,7 @@ post_title: Sample Page
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://mydivein.com/sample-page/
+permalink: https://mydivein.com/sample-page/
 published: true
 post_date: 2017-01-27 09:22:23
 ---

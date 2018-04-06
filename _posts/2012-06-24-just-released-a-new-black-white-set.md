@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/just-released-a-new-black-white-set/
+  https://mydivein.com/just-released-a-new-black-white-set/
 published: true
 post_date: 2012-06-24 21:36:17
 ---

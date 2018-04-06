@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/maritime-shipping-2/
+  https://mydivein.com/maritime-shipping-2/
 published: true
 post_date: 2013-06-26 01:38:43
 ---

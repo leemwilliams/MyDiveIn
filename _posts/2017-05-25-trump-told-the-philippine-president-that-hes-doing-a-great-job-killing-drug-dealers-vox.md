@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/trump-told-the-philippine-president-that-hes-doing-a-great-job-killing-drug-dealers-vox/
+  https://mydivein.com/trump-told-the-philippine-president-that-hes-doing-a-great-job-killing-drug-dealers-vox/
 published: true
 post_date: 2017-05-25 17:13:50
 ---

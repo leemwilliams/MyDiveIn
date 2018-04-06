@@ -1,7 +1,7 @@
 ---
 ID: 95382
 post_title: 'Active Citizenship: Keeping the Government Honest'
-author: sara
+author: edelleye
 post_excerpt: >
   Perhaps American society’s recent
   failure to maintain a functional
@@ -10,7 +10,7 @@ post_excerpt: >
   stay pure and moral on its own.
 layout: post
 permalink: >
-  http://dev.mydivein.com/active-citizenship-keeping-government-honest/
+  https://mydivein.com/active-citizenship-keeping-government-honest/
 published: true
 post_date: 2017-10-25 11:43:03
 ---
@@ -29,5 +29,4 @@ post_date: 2017-10-25 11:43:03
 
 <span style="font-weight: 400">I argue that the best form of active citizenship is a habit that we can incorporate into our daily routines. Already there are #socent organizations that are making this a reality.  </span><a href="https://techcrunch.com/2009/06/30/can-open-government-be-gamed/"><span style="font-weight: 400">We.gov makes government data available to everyday citizens. </span></a><span style="font-weight: 400"> At DiveIn, it is our mission to make participating activist events more accessible.  Whatever your approach, there are existing ways to make active citizenship an engaging part of your social, work, and home life.  After all, being a citizen is a living, breathing way of being- not a static and guaranteed identity.  How will you embody progress?</span>
 
-&nbsp;<!--themify_builder_static--><img src="http://dev.mydivein.com/wp-content/uploads/2017/10/saraimgcrped.jpg" alt="saraimgcrped" /> 
- <p>Sara recently received her Master&#8217;s degree in Public Affairs at University of San Francisco.  She completed this while working full time as social media associate and program manager for  environmental education non-profits NatureBridge and Action for Nature. Sara has been a committed social justice advocate since her days writing cultural content pieces for the University of Washington&#8217;s student newspaper through her days serving in Americorps. She enjoys working in social entrepreneurship, since it allows her to invest in the cross section of innovation and active citizenship.</p><!--/themify_builder_static-->
+&nbsp;

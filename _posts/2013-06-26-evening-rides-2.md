@@ -4,7 +4,7 @@ post_title: Evening Rides
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://dev.mydivein.com/evening-rides-2/
+permalink: https://mydivein.com/evening-rides-2/
 published: true
 post_date: 2013-06-26 02:47:20
 ---

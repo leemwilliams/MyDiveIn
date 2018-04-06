@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/the-worst-job-in-washington-right-now-working-for-trump-the-washington-post/
+  https://mydivein.com/the-worst-job-in-washington-right-now-working-for-trump-the-washington-post/
 published: true
 post_date: 2017-05-18 17:47:14
 ---

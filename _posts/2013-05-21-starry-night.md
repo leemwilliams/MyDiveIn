@@ -4,7 +4,7 @@ post_title: Starry Night
 author: user
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/starry-night/
+permalink: https://mydivein.com/starry-night/
 published: true
 post_date: 2013-05-21 01:38:00
 ---

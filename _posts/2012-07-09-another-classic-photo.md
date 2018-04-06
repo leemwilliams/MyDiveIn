@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/another-classic-photo/
+  https://mydivein.com/another-classic-photo/
 published: true
 post_date: 2012-07-09 23:43:00
 ---

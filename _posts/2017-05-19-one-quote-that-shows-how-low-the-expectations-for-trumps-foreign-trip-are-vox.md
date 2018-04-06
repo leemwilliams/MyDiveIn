@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/one-quote-that-shows-how-low-the-expectations-for-trumps-foreign-trip-are-vox/
+  https://mydivein.com/one-quote-that-shows-how-low-the-expectations-for-trumps-foreign-trip-are-vox/
 published: true
 post_date: 2017-05-19 19:30:38
 ---

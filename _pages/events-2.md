@@ -4,7 +4,7 @@ post_title: Events
 author: edelleye
 post_excerpt: CONTENTS
 layout: page
-permalink: http://mydivein.com/events-2/
+permalink: https://mydivein.com/events-2/
 published: true
 post_date: 2017-03-17 04:51:20
 ---

@@ -4,7 +4,7 @@ post_title: Watercolor
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://dev.mydivein.com/watercolor/
+permalink: https://mydivein.com/watercolor/
 published: true
 post_date: 2013-06-26 01:30:51
 ---

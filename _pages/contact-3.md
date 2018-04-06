@@ -4,7 +4,7 @@ post_title: Contact
 author: edelleye
 post_excerpt: ""
 layout: page
-permalink: http://mydivein.com/contact-3/
+permalink: https://mydivein.com/contact-3/
 published: true
 post_date: 2012-07-23 23:56:44
 ---

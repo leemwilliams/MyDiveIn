@@ -4,7 +4,7 @@ post_title: Lightbox Link
 author: user
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/lightbox-link/
+permalink: https://mydivein.com/lightbox-link/
 published: true
 post_date: 2013-05-16 20:00:10
 ---

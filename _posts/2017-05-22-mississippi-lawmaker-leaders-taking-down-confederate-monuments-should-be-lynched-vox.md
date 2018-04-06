@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/mississippi-lawmaker-leaders-taking-down-confederate-monuments-should-be-lynched-vox/
+  https://mydivein.com/mississippi-lawmaker-leaders-taking-down-confederate-monuments-should-be-lynched-vox/
 published: true
 post_date: 2017-05-22 18:37:14
 ---

@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/some-of-my-travel-photos/
+  https://mydivein.com/some-of-my-travel-photos/
 published: true
 post_date: 2012-06-23 23:11:44
 ---

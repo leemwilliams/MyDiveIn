@@ -5,7 +5,7 @@ author: Andreas Carlos Freund
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/democrats-are-falling-for-fake-news-about-russia-vox/
+  https://mydivein.com/democrats-are-falling-for-fake-news-about-russia-vox/
 published: true
 post_date: 2017-05-19 19:33:42
 ---

@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.mydivein.com/dirt-championship-2/
+  https://mydivein.com/dirt-championship-2/
 published: true
 post_date: 2013-06-26 23:38:36
 ---

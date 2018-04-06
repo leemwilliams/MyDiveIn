@@ -1,10 +1,10 @@
 ---
 ID: 103214
 post_title: 'Let&#8217;s Scale A Youth Network!'
-author: sara
+author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://dev.mydivein.com/youthnetwork/
+permalink: https://mydivein.com/youthnetwork/
 published: true
 post_date: 2017-11-07 15:03:39
 ---
@@ -23,5 +23,4 @@ By Sara Grimes
 
 <span style="font-weight: 400">In a society where divisiveness is becoming more and more the norm, it is critical that we find ways to expose our youth as well as ALL folks to people of all variety and backgrounds who can shift their perspective and deepen their empathy.  We’ve already seen the disturbing damage that can happen when we label a nation, an ethnicity, a gender, or an ability “other” instead of embracing them as one of “us”.  Providing a central location in person and virtually for people to come together and exchange ideas to better the world is something that we should all strive to create.  Shared space spawns shared community action. It’s time we create hubs of collective action. </span>
 
-&nbsp;<!--themify_builder_static--><img src="http://dev.mydivein.com/wp-content/uploads/2017/10/saraimgcrped.jpg" alt="saraimgcrped" /> 
- <p>Sara recently received her Master’s degree in Public Affairs at University of San Francisco.  She completed this while working full time as social media associate and program manager for  environmental education non-profits NatureBridge and Action for Nature. Sara has been a committed social justice advocate since her days writing cultural content pieces for the University of Washington’s student newspaper through her days serving in Americorps. She enjoys working in social entrepreneurship, since it allows her to invest in the cross section of innovation and active citizenship.</p><!--/themify_builder_static-->
+&nbsp;

@@ -3,11 +3,11 @@ ID: 96830
 post_title: >
   Automóvil con energía solar podría
   ser el futuro para los viajes
-author: sara
+author: edelleye
 post_excerpt: ' En la semana del @WorldSolarChallenge, un equipo holandés de la Universidad Tecnológica de @Eindhoven consiguió la victoria general por su concepto único: un coche solar que genera electricidad y va en marcha.'
 layout: post
 permalink: >
-  http://dev.mydivein.com/automovil-con-energia-solar-podria-ser-el-futuro-para-los-viajes/
+  https://mydivein.com/automovil-con-energia-solar-podria-ser-el-futuro-para-los-viajes/
 published: true
 post_date: 2017-11-02 14:55:51
 ---
@@ -26,5 +26,4 @@ post_date: 2017-11-02 14:55:51
 
 <b> </b>
 
-<b>References: </b><a href="https://phys.org/news/2017-10-futuristic-solar-powered-dutch-family-car.html"><b>Phys</b></a><b>, </b><a href="https://cleantechnica.com/2017/10/16/eindhoven-university-technology-team-wins-world-solar-challenge-cruiser-class-solar-car-race-3rd-time/"><b>Clean Technica</b></a><b>, <a href="http://www.greencarcongress.com/">Green Car Congress</a></b><!--themify_builder_static--><img src="http://dev.mydivein.com/wp-content/uploads/2017/10/received_10154992321913668.jpeg" alt="received_10154992321913668" /> 
- <p>Lilibeth is a journalist and digital media manager from Bogota, Col. She has been working in marketing for about four years. She was inspired by DiveIn’s mission to connect people and help them to create a positive impact in their communities through volunteer opportunities and events.  She loves doing work that allows her to create, connect, innovate, and develop the potential for a better world.</p><!--/themify_builder_static-->
+<b>References: </b><a href="https://phys.org/news/2017-10-futuristic-solar-powered-dutch-family-car.html"><b>Phys</b></a><b>, </b><a href="https://cleantechnica.com/2017/10/16/eindhoven-university-technology-team-wins-world-solar-challenge-cruiser-class-solar-car-race-3rd-time/"><b>Clean Technica</b></a><b>, <a href="http://www.greencarcongress.com/">Green Car Congress</a></b>

@@ -5,7 +5,7 @@ author: edelleye
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/took-some-pictures-at-the-club/
+  https://mydivein.com/took-some-pictures-at-the-club/
 published: true
 post_date: 2012-06-19 23:43:43
 ---

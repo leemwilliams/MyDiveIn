@@ -8,7 +8,7 @@ author: ""
 post_excerpt: ""
 layout: post
 permalink: >
-  http://mydivein.com/kendall-jenner-appropriates-the-resistance-to-sell-you-pepsi-the-huffington-post/
+  https://mydivein.com/kendall-jenner-appropriates-the-resistance-to-sell-you-pepsi-the-huffington-post/
 published: true
 post_date: 2017-04-04 23:08:59
 ---

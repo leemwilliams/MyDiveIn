@@ -4,7 +4,7 @@ post_title: Pretty Model
 author: edelleye
 post_excerpt: ""
 layout: post
-permalink: http://mydivein.com/pretty-model/
+permalink: https://mydivein.com/pretty-model/
 published: true
 post_date: 2012-07-23 23:42:52
 ---
