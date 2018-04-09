@@ -1,0 +1,43 @@
+---
+ID: 41075232388
+post_title: >
+  CA Regulators Need to Better Protect
+  Groundwater
+author: Shannon
+post_excerpt: ""
+layout: post
+permalink: >
+  https://mydivein.com/ca-regulators-need-to-protect-groundwater-waste/
+published: true
+post_date: 2018-04-09 10:18:05
+---
+<h2>CA Regulators Need to Better Protect Groundwater</h2>
+By Vivian Underhill, Data and GIS Intern, and <a href="https://www.fractracker.org/author/kyleferrar/">Kyle Ferrar</a>, Western Program Coordinator, FracTracker Alliance
+
+Every year the oil and gas industry in California generates <a href="https://www.cleanwateraction.org/features/oil-and-gas-wastewater-california" target="_blank" rel="noopener">billions of gallons of wastewater</a>, also known as produced water. According to a <a href="http://ccst.us/projects/hydraulic_fracturing_public/SB4.php" target="_blank" rel="noopener">study by the California Council on Science and Technology</a>, in 2013, more than 3 billion barrels of produced water were extracted along with some 0.2 billion barrels of oil across the state. This wastewater is usually contaminated with a mixture of heavy metals, hydrocarbons, naturally occurring radioactive materials, and high levels of salts. Yet, contaminated wastewater from oil-field operations is <a href="https://www.cleanwateraction.org/files/publications/UIC%20-%20Clean%20Water%20report%201.6.15.pdf" target="_blank" rel="noopener">exempt from the hazardous waste regulations</a> enforced by the Resource Conservation and Recovery Act (RCRA).
+
+Operators are, therefore, not required to measure or report the chemistry of this wastewater. Even with these unknowns, it is legally <a href="https://www.cleanwateraction.org/files/publications/UIC%20-%20Clean%20Water%20report%201.6.15.pdf" target="_blank" rel="noopener">re-injected back into groundwater aquifers for disposal</a>. Once an aquifer is contaminated it can be<a href="https://www.epa.gov/sites/production/files/2015-08/documents/mgwc-gwc1.pdf" target="_blank" rel="noopener"> extremely difficult, if not impossible, to clean up again</a>. Particularly in California, where water resources are already stretched thin, underground injection of oil and gas wastewater is a major environmental and economic concern.
+<h3>Regulatory Deficiency</h3>
+Under the Underground Injection Control program, <a href="https://www.epa.gov/uic/aquifer-exemptions-underground-injection-control-program" target="_blank" rel="noopener">wastewater is supposed to be injected only into geologic formations that don’t contain usable groundwater</a>. However, a <a href="https://www.propublica.org/article/california-epa-poised-expand-pollution-of-potential-drinking-water-reserves" target="_blank" rel="noopener">loophole</a> in the Safe Drinking Water Act allows oil and gas companies to apply for what’s called an aquifer exemption, which allows them to inject wastewater into aquifers that potentially hold high-quality drinking water. To learn more about aquifer exemptions, see FracTracker’s summary, <a href="https://www.fractracker.org/2017/10/aquifer-exemptions/">here</a>.
+
+The California department responsible for managing these aquifer exemption permits – the Division of Oil, Gas, and Geothermal Resources (DOGGR) – has for decades failed in its regulatory capacity. In 2015, for example, DOGGR <a href="https://www.ewg.org/research/toxic-stew/injection-control-program-may-not-protect-groundwater#.WrPj9C7wapo" target="_blank" rel="noopener">admitted that at least 2,553 wells had been permitted to inject oil and gas waste into non-exempt aquifers</a> – aquifers that could be used for drinking water. <a href="https://www.nrdc.org/experts/briana-mordick/whos-blame-oil-waste-californians-drinking-water" target="_blank" rel="noopener">Independent audits</a> of DOGGR showed decades of poor record-keeping, lax oversight, and in some cases, outright defiance of the law – showing the cozy relationship between regulators and the oil and gas industry. While 176 wells (those that were injecting into the cleanest drinking water) were initially shut down, most of the rest of the 2,377 permits were allowed to continue injecting into disputed wells through the following two years of the regulatory process.
+
+The injection wells targeted by the Environmental Protection Agency (EPA), including those that were shut down, are shown in the map below.
+<h3></h3>
+[iframe src="http://maps.fractracker.org/latest/?webmap=4577d388bb8d4563ab2e9987e7e1f7ff" width="800" height="600" scrolling="auto" ]
+
+<em>Figure 1. Map of EPA-targeted Class II Injection Wells.</em>
+
+The timeline of all this is just as concerning. The State of California has known about these problems since 2011, when the <a href="https://www.epa.gov/sites/production/files/2016-05/documents/epa-letter-doggr-w-final-report-2011-07.pdf" target="_blank" rel="noopener">EPA audited California’s underground injection program</a> and identified substantial deficiencies in its program, including failure to protect some potential underground sources of drinking water, a one-size-fits-all geologic review, and inadequate and under-qualified staffing for carrying out inspections. In 2014, the Governor’s office requested that the California EPA perform an <a href="https://calepa.ca.gov/wp-content/uploads/sites/62/2016/10/Publications-Reports-2015yr-UICFindings.pdf" target="_blank" rel="noopener">independent review of the program</a>. EPA subsequently made a <a href="https://www.epa.gov/sites/production/files/2015-07/documents/ca-class-ii-uic-letter-2014-12-22.pdf" target="_blank" rel="noopener">specific remediation plan and timeline for DOGGR</a>, and in March of 2015 the State finalized a Corrective Action Plan, to be completed by February 2017.
+<h3>Scientific Review of CA Oil and Gas Activities</h3>
+Meanwhile, in 2013, the<a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB4" target="_blank" rel="noopener"> California Senate passed SB-4</a>, which set a framework for regulating hydraulic fracturing in California. Part of the bill required an independent scientific study to be conducted on oil and gas well stimulation, including acid well stimulation and hydraulic fracturing. The California Council on Science and Technology organized and led the <a href="http://ccst.us/projects/hydraulic_fracturing_public/SB4.php" target="_blank" rel="noopener">study</a>, in collaboration with the Lawrence Berkeley National Laboratories, which combined original technical data analyses and a review of relevant literature, all of which was extensively peer-reviewed. The report argues that both direct and indirect impacts of fracking must be accounted for and that major deficiencies and inconsistencies in data remained which made research difficult. They also recommended that DOGGR improve and modernize their record keeping to be more transparent.
+
+<img class="alignnone size-full wp-image-41075232409" src="https://mydivein.com/wp-content/uploads/2018/04/Field_Depth-e1521733199616.png" alt="Groundwater depth" width="518" height="388" />
+
+<em>Figure 2. A major component of the SB-4 report covered California’s Class II injection program. Researchers analyzed the depths of groundwater aquifers protected by the Safe Drinking Water </em>Act,<em> and found that injection and hydraulic fracturing activity was occurring within the same or neighboring geological zones as protected drinking water. Reproduced from California Council on Science and Technology: An Independent Scientific Assessment of Well Stimulation in California Vol. 3.</em>
+<h3>More Exemptions to be Granted</h3>
+Now, <a href="http://www.conservation.ca.gov/dog/Pages/Aquifer_Exemptions.aspx" target="_blank" rel="noopener">EPA is re-granting exemptions again</a>. Six aquifer exemptions have been granted, and more are on the docket to be considered. In this second time around, it is imperative that regulatory agencies be more diligent in their oversight of this permitting process to protect groundwater resources. At the same time, the 2015 California bill SB 83 mandates the appointment of an independent review panel to evaluate the Underground Injection Control Program and to make recommendations on how to improve the effectiveness of the program. This process is currently in the works and a panel has been assembled, and FracTracker Alliance will be working to provide data, maps, and analyses for this panel.
+
+Stay tuned for more to come on which aquifers are being exempted, why, and what steps are being taken to protect groundwater in California.
+
+&nbsp;
