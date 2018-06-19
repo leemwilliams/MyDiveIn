@@ -1,11 +1,10 @@
 ---
-ID: 8
+ID: 9
 post_title: About
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://dev.mydivein.com/about/
+permalink: https://mydivein.com/about/
 published: true
-post_date: 2017-03-04 02:10:47
+post_date: 2017-03-04 02:10:48
 ---
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
